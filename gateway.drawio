@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T14:13:56.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.7" etag="rbtMQpq9ZWOMsa6hvxmv" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T14:21:49.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Poj_fcChRaPkmXMdyWdu" version="24.2.7" type="github">
   <diagram name="第 1 页" id="wrbttYABkRkaUM64uDq1">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpbgb9Nh8bwPTBoNOzIF-1" target="cpbgb9Nh8bwPTBoNOzIF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="430" as="sourcePoint" />
+            <mxPoint x="430" y="384.59375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="640" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-5" value="网关" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-6" value="请求" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;跨域处理&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cpbgb9Nh8bwPTBoNOzIF-7" target="cpbgb9Nh8bwPTBoNOzIF-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="430" as="sourcePoint" />
+            <mxPoint x="750" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Token校验&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cpbgb9Nh8bwPTBoNOzIF-9" target="cpbgb9Nh8bwPTBoNOzIF-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="430" as="sourcePoint" />
+            <mxPoint x="910" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;路由转发&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-12" value="所需经历的流程" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cpbgb9Nh8bwPTBoNOzIF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="360" as="sourcePoint" />
+            <mxPoint x="1340" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpbgb9Nh8bwPTBoNOzIF-14" value="后续处理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
