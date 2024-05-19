@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T15:10:16.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FFp07jCmHyOg328RyKh5" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T15:12:27.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qvbKE8Nr4a5z0yPgioPq" version="24.4.4" type="github">
   <diagram name="第 1 页" id="vgR8yqiSRoySKgmwrwpU">
     <mxGraphModel dx="1434" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="731" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ov-WBmSmeJzPG5boJ5oF-8" value="转发请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ov-WBmSmeJzPG5boJ5oF-8" value="反向代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="648" y="310" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Ov-WBmSmeJzPG5boJ5oF-9" value="网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -67,8 +67,8 @@
             <mxPoint x="953" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ov-WBmSmeJzPG5boJ5oF-17" value="路由转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="919" y="307" width="66" height="26" as="geometry" />
+        <mxCell id="Ov-WBmSmeJzPG5boJ5oF-17" value="鉴权后进行路由转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="889" y="307" width="126" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
