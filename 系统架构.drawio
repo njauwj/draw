@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T14:12:54.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0V0GL5SqXCL6nIXd_xzI" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T14:14:18.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="J5cWNNSgWST85P7AVCUp" version="24.4.4" type="github">
   <diagram name="第 1 页" id="unWTo74ltifnSqvRPOdm">
-    <mxGraphModel dx="1195" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,18 @@
         </mxCell>
         <mxCell id="7Db4vMftl8oDxzoPU8jv-19" value="网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1628" y="1144" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Db4vMftl8oDxzoPU8jv-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="1089" width="42" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7Db4vMftl8oDxzoPU8jv-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="1204" width="42" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7Db4vMftl8oDxzoPU8jv-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="1323" width="42" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7Db4vMftl8oDxzoPU8jv-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="1437" width="42" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
