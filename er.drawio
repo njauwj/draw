@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T09:23:43.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="uKt9GLsb2qCrcqDH1Iau" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T11:37:06.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nIJ6EkZc2TWPbbSF2IaI" version="24.4.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1687" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2049" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
             <mxPoint x="906" y="1066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yz93wP-5PcGR5My5lY4H-36" value="购买" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Yz93wP-5PcGR5My5lY4H-36" value="查询" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontSize=16;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="832" y="1066" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yz93wP-5PcGR5My5lY4H-39" value="车票" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
